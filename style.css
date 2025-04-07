@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    height: 100vh; /* altura completa de la ventana */
+    display: flex;
+    justify-content: center; /* centra horizontalmente */
+    align-items: center;     /* centra verticalmente */
+  }
+  
